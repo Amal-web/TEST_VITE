@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 import "./App.css";
 
@@ -18,7 +17,6 @@ const New = () => {
 };
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>
